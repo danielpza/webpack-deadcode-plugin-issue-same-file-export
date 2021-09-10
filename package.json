@@ -1,0 +1,17 @@
+{
+  "name": "webpack-deadcode-plugin-issue-same-file-export",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Daniel Perez Alvarez <danielpza@protonmail.com> (https://github.com/danielpza)",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.52.1",
+    "webpack-cli": "^4.8.0",
+    "webpack-deadcode-plugin": "^0.1.14"
+  }
+}
